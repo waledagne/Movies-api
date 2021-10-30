@@ -1,4 +1,4 @@
-# movie-api
+# movie-api with rapid api
 
 ## Project setup
 ```
